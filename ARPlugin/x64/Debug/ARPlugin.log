@@ -1,0 +1,10 @@
+﻿  ArAPI.cpp
+c:\users\sharm\documents\visual studio 2015\projects\arplugin\arplugin\arapi.cpp(30): warning C4101: 'dispy': unreferenced local variable
+c:\users\sharm\documents\visual studio 2015\projects\arplugin\arplugin\arapi.cpp(30): warning C4101: 'dispx': unreferenced local variable
+c:\users\sharm\documents\visual studio 2015\projects\arplugin\arplugin\arapi.cpp(29): warning C4101: 'rotz': unreferenced local variable
+c:\users\sharm\documents\visual studio 2015\projects\arplugin\arplugin\arapi.cpp(30): warning C4101: 'dispz': unreferenced local variable
+c:\users\sharm\documents\visual studio 2015\projects\arplugin\arplugin\arapi.cpp(29): warning C4101: 'roty': unreferenced local variable
+c:\users\sharm\documents\visual studio 2015\projects\arplugin\arplugin\arapi.cpp(29): warning C4101: 'rotx': unreferenced local variable
+c:\users\sharm\documents\visual studio 2015\projects\arplugin\arplugin\arapi.cpp(68): warning C4101: 'e': unreferenced local variable
+  ARPlugin.vcxproj -> C:\Users\sharm\documents\visual studio 2015\Projects\ARPlugin\x64\Debug\ARPlugin.dll
+  ARPlugin.vcxproj -> C:\Users\sharm\documents\visual studio 2015\Projects\ARPlugin\x64\Debug\ARPlugin.pdb (Partial PDB)

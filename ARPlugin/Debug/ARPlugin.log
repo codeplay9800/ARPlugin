@@ -1,0 +1,7 @@
+﻿  ArAPI.cpp
+c:\users\sharm\documents\visual studio 2015\projects\arplugin\arplugin\arapi.cpp(10): error C2601: 'add': local function definitions are illegal
+  c:\users\sharm\documents\visual studio 2015\projects\arplugin\arplugin\arapi.cpp(6): note: this line contains a '{' which has not yet been matched
+c:\users\sharm\documents\visual studio 2015\projects\arplugin\arplugin\arapi.cpp(16): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\sharm\documents\visual studio 2015\projects\arplugin\arplugin\arapi.cpp(18): error C2143: syntax error: missing ';' before 'ArAPI::~ArAPI'
+c:\users\sharm\documents\visual studio 2015\projects\arplugin\arplugin\arapi.cpp(20): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\sharm\documents\visual studio 2015\projects\arplugin\arplugin\arapi.cpp(6): fatal error C1075: the left brace '{' was unmatched at the end of the file
